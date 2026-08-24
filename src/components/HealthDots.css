@@ -1,0 +1,38 @@
+.healthDots {
+  display: flex;
+  gap: 6px;
+  justify-content: center;
+  padding: 18px 0;
+}
+
+.healthDots__segment {
+  width: 32px;
+  height: 6px;
+  border-radius: 3px;
+  background: var(--bg-elevated-2);
+  border: 1px solid var(--border-strong);
+  transition: background 0.25s var(--ease-out), border-color 0.25s var(--ease-out),
+    transform 0.2s var(--ease-out);
+}
+
+.healthDots__segment:hover {
+  transform: scaleY(1.4);
+}
+
+.healthDots__segment.is-passed {
+  background: var(--accent-2);
+  border-color: var(--accent-2);
+  opacity: 0.55;
+}
+
+.healthDots__segment.is-active {
+  background: var(--accent-bright);
+  border-color: var(--accent-bright);
+  opacity: 1;
+}
+
+@media (max-width: 480px) {
+  .healthDots__segment {
+    width: 22px;
+  }
+}
