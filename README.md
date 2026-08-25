@@ -1,4 +1,4 @@
-# Portfolio — Giovanni Biancoli 🎮
+# Portfolio — Giovanni Biancoli 🎮 💻
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -13,9 +13,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 
-Ciao, benvenuto nel mio progetto Github! 👋
-
-Questo è il mio primo vero progetto portfolio.
+Ciao, benvenuto nel mio progetto Github! 👋 Benvenuto nel mio progetto Github!🚀 Sono Giovanni, studente DevOps, amante dell'informatica e di ogni tecnologia esistente.
 
 Il mio sito portfolio, pensato per raccontare il mio percorso verso lo sviluppo Fullstack con un parallelismo tra modalità di gioco e sezioni della mia vita/carriera. Il tema gaming è il *packaging*: sotto, i contenuti restano concreti e verificabili — percorso, competenze, progetti veri.
 
