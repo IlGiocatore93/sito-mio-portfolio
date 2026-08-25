@@ -129,7 +129,7 @@ Il deploy in produzione non è mai stato solo "premi un bottone" — qualche ese
 - Possibili nuove domande per il quiz, per tenerlo fresco nel tempo
 
 ---
-
+<br>
 
 🤝 Vuoi contribuire e migliorare il progetto?💭 Apri una Issue o una Pull Request su Github!💡
 
@@ -140,7 +140,7 @@ Licenza: MIT - Libero di esplorare, migliorare e condividere.
 <br>
 
 🤙 Se ti è piaciuto il progetto, lascia una ✨ su GitHub!🌐
-<br>
+<br><br>
 
 
 🧑‍💻 Creato da:[Giovanni Biancoli](https://github.com/IlGiocatore93)
