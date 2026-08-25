@@ -24,10 +24,10 @@ Il mio **sito / portfolio**, pensato per raccontare il mio percorso verso lo svi
 
 ## Screenshot
 
-<u>_Singleplayer_</u> — il pannello di apertura con foto e stack tecnico
+***_Singleplayer_ — il pannello di apertura con foto e stack tecnico
 ![Singleplayer](screenshots-readme/01-singleplayer.png)
 
-_Multiplayer_ — soft skill e lavoro di squadra
+***_Multiplayer_*** — soft skill e lavoro di squadra
 ![Multiplayer](screenshots-readme/02-multiplayer.png)
 
 _Capture the Flag_ — i progetti, con screenshot delle app vere
