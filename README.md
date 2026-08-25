@@ -171,7 +171,7 @@ Web Service collegato al repository GitHub:
 
 **Problema incontrato — versione Python troppo recente:** Render usava di default Python 3.14, per cui `pydantic-core` non aveva ancora un pacchetto pronto e provava a compilarlo da zero, fallendo per un problema di permessi del filesystem in sandbox. Risolto forzando `PYTHON_VERSION=3.11.9` come variabile d'ambiente.
 
-<img src="deploy-screenshots/02-render-backend-live.png" width="1000">
+<img src="deploy-screenshots/02-render-backend-live.png" height="500" width="1000">
 
 ### 4. Frontend su Vercel
 
@@ -185,7 +185,7 @@ git commit -m "rimuovo node_modules dal repo"
 git push
 ```
 
-<img src="deploy-screenshots/03-vercel-deploy-ready.png" width="1000">
+<img src="deploy-screenshots/03-vercel-deploy-ready.png" height="500" width="1000">
 
 ### 5. Collegare backend e frontend (CORS)
 
@@ -195,7 +195,7 @@ Tornati su Render, variabile `FRONTEND_URL` aggiornata con l'URL reale del front
 
 Form di contatto testato sul sito live: messaggio inviato dal browser → salvato nel database Neon → notifica ricevuta via email tramite Resend.
 
-<img src="deploy-screenshots/04-email-notifica-ricevuta.png" width="1000">
+<img src="deploy-screenshots/04-email-notifica-ricevuta.png" height="500" width="1000">
 
 ---
 
