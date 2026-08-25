@@ -70,7 +70,7 @@ Il mio **sito / portfolio**, pensato per raccontare il mio percorso verso lo svi
 
 ## Perché questo concept
 
-Sono cresciuto con i videogiochi come passione, prima di trasformarla in un mestiere. Invece del solito portfolio a scroll verticale, ho voluto qualcosa che raccontasse anche *come* penso, non solo *cosa* so fare — da qui l'idea di sei sezioni in stile "modalità di gioco", navigabili come pannelli scorrevoli invece che con lo scroll classico.
+Sono cresciuto con i videogiochi e la tecnologia, come passione, prima di trasformarla in un mestiere. Invece del solito portfolio a scroll verticale, ho voluto qualcosa che raccontasse anche *come* penso, non solo *cosa* so fare — da qui l'idea di sei sezioni in stile "modalità di gioco", navigabili come pannelli scorrevoli invece che con lo scroll classico.
 
 ## Le 6 sezioni
 
