@@ -24,34 +24,34 @@ Il mio **sito / portfolio**, pensato per raccontare il mio percorso verso lo svi
 
 ## Screenshot
 
-***_Singleplayer_ — il pannello di apertura con foto e stack tecnico
+***_Singleplayer_*** — il pannello di apertura con foto e stack tecnico
 ![Singleplayer](screenshots-readme/01-singleplayer.png)
 
 ***_Multiplayer_*** — soft skill e lavoro di squadra
 ![Multiplayer](screenshots-readme/02-multiplayer.png)
 
-_Capture the Flag_ — i progetti, con screenshot delle app vere
+***_Capture the Flag_*** — i progetti, con screenshot delle app vere
 ![Capture the Flag](screenshots-readme/03-capture-the-flag.png)
 
-_Deathmatch_ — i bug affrontati, raccontati per esteso
+***_Deathmatch_*** — i bug affrontati, raccontati per esteso
 ![Deathmatch](screenshots-readme/04-deathmatch.png)
 
-_Survival_ — cosa sto imparando ora
+***_Survival_*** — cosa sto imparando ora
 ![Survival](screenshots-readme/05-survival.png)
 
-_Extra Life_ — form di contatto, CV, link social
+***_Extra Life_*** — form di contatto, CV, link social
 ![Extra Life](screenshots-readme/06-extra-life.png)
 
-_Il sito_ è interamente tradotto in inglese, toggle incluso
+***_Il sito_*** è interamente tradotto in inglese, toggle incluso
 ![Deathmatch in inglese](screenshots-readme/07-deathmatch-en.png)
 
-_L'easter egg_ — un quiz lampo nascosto dietro l'icona del controller nell'header
+***_L'easter egg_*** — un quiz lampo nascosto dietro l'icona del controller nell'header
 ![Quiz easter egg](screenshots-readme/08-quiz-easter-egg.png)
 
-_Il bottone email_ apre una scelta tra Gmail, Outlook e Yahoo, oltre alla copia diretta dell'indirizzo — nessun accesso a caselle di posta richiesto
+***_Il bottone email_*** apre una scelta tra Gmail, Outlook e Yahoo, oltre alla copia diretta dell'indirizzo — nessun accesso a caselle di posta richiesto
 ![Modal email](screenshots-readme/09-email-modal.png)
 
-_I tre CV_ (completo, sintetico, formato Europeo) si possono anche visualizzare in anteprima prima di scaricarli
+***_I tre CV_*** (completo, sintetico, formato Europeo) si possono anche visualizzare in anteprima prima di scaricarli
 ![Anteprima CV](screenshots-readme/10-cv-preview.png)
 
 ## Perché questo concept
