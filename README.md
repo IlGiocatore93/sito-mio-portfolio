@@ -195,7 +195,7 @@ Tornati su Render, variabile `FRONTEND_URL` aggiornata con l'URL reale del front
 
 Form di contatto testato sul sito live: messaggio inviato dal browser → salvato nel database Neon → notifica ricevuta via email tramite Resend.
 
-<img src="deploy-screenshots/04-email-notifica-ricevuta.png" height="200" width="1000">
+<img src="deploy-screenshots/04-email-notifica-ricevuta.png" height="500" width="900">
 
 ---
 
