@@ -24,7 +24,7 @@ Il mio **sito / portfolio**, pensato per raccontare il mio percorso verso lo svi
 
 ## Screenshot
 
-_Singleplayer_ — il pannello di apertura con foto e stack tecnico
+<u>_Singleplayer_</u> — il pannello di apertura con foto e stack tecnico
 ![Singleplayer](screenshots-readme/01-singleplayer.png)
 
 _Multiplayer_ — soft skill e lavoro di squadra
