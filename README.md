@@ -42,16 +42,16 @@ _Survival_ — cosa sto imparando ora
 _Extra Life_ — form di contatto, CV, link social
 ![Extra Life](screenshots-readme/06-extra-life.png)
 
-Il sito è interamente tradotto in inglese, toggle incluso
+_Il sito_ è interamente tradotto in inglese, toggle incluso
 ![Deathmatch in inglese](screenshots-readme/07-deathmatch-en.png)
 
-L'easter egg — un quiz lampo nascosto dietro l'icona del controller nell'header
+_L'easter egg_ — un quiz lampo nascosto dietro l'icona del controller nell'header
 ![Quiz easter egg](screenshots-readme/08-quiz-easter-egg.png)
 
-Il bottone email apre una scelta tra Gmail, Outlook e Yahoo, oltre alla copia diretta dell'indirizzo — nessun accesso a caselle di posta richiesto
+_Il bottone email_ apre una scelta tra Gmail, Outlook e Yahoo, oltre alla copia diretta dell'indirizzo — nessun accesso a caselle di posta richiesto
 ![Modal email](screenshots-readme/09-email-modal.png)
 
-I tre CV (completo, sintetico, formato Europeo) si possono anche visualizzare in anteprima prima di scaricarli
+_I tre CV_ (completo, sintetico, formato Europeo) si possono anche visualizzare in anteprima prima di scaricarli
 ![Anteprima CV](screenshots-readme/10-cv-preview.png)
 
 ## Perché questo concept
