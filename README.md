@@ -24,22 +24,22 @@ Il mio **sito / portfolio**, pensato per raccontare il mio percorso verso lo svi
 
 ## Screenshot
 
-Singleplayer — il pannello di apertura con foto e stack tecnico
+_Singleplayer_ — il pannello di apertura con foto e stack tecnico
 ![Singleplayer](screenshots-readme/01-singleplayer.png)
 
-Multiplayer — soft skill e lavoro di squadra
+_Multiplayer_ — soft skill e lavoro di squadra
 ![Multiplayer](screenshots-readme/02-multiplayer.png)
 
-Capture the Flag — i progetti, con screenshot delle app vere
+_Capture the Flag_ — i progetti, con screenshot delle app vere
 ![Capture the Flag](screenshots-readme/03-capture-the-flag.png)
 
-Deathmatch — i bug affrontati, raccontati per esteso
+_Deathmatch_ — i bug affrontati, raccontati per esteso
 ![Deathmatch](screenshots-readme/04-deathmatch.png)
 
-Survival — cosa sto imparando ora
+_Survival_ — cosa sto imparando ora
 ![Survival](screenshots-readme/05-survival.png)
 
-Extra Life — form di contatto, CV, link social
+_Extra Life_ — form di contatto, CV, link social
 ![Extra Life](screenshots-readme/06-extra-life.png)
 
 Il sito è interamente tradotto in inglese, toggle incluso
