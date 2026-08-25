@@ -1,18 +1,5 @@
 # Portfolio — Giovanni Biancoli 🎮
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat&logo=framer&logoColor=0055FF)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=black)
-![Resend](https://img.shields.io/badge/Resend-000000?style=flat&logo=resend&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
-
 Il mio sito portfolio, pensato per raccontare il mio percorso verso lo sviluppo Fullstack con un parallelismo tra modalità di gioco e sezioni della mia vita/carriera. Il tema gaming è il *packaging*: sotto, i contenuti restano concreti e verificabili — percorso, competenze, progetti veri.
 
 🔗 **Demo live:** https://sito-mio-portfolio.vercel.app
@@ -34,41 +21,42 @@ Il mio sito portfolio, pensato per raccontare il mio percorso verso lo sviluppo 
 
 ## Screenshot
 
-Singleplayer — il pannello di apertura con foto e stack tecnico
+***_Singleplayer_*** — il pannello di apertura con foto e stack tecnico
 ![Singleplayer](screenshots-readme/01-singleplayer.png)
 
-Multiplayer — soft skill e lavoro di squadra
+***_Multiplayer_*** — soft skill e lavoro di squadra
 ![Multiplayer](screenshots-readme/02-multiplayer.png)
 
-Capture the Flag — i progetti, con screenshot delle app vere
+***_Capture the Flag_*** — i progetti, con screenshot delle app vere
 ![Capture the Flag](screenshots-readme/03-capture-the-flag.png)
 
-Deathmatch — i bug affrontati, raccontati per esteso
+***_Deathmatch_*** — i bug affrontati, raccontati per esteso
 ![Deathmatch](screenshots-readme/04-deathmatch.png)
 
-Survival — cosa sto imparando ora
+***_Survival_*** — cosa sto imparando ora
 ![Survival](screenshots-readme/05-survival.png)
 
-Extra Life — form di contatto, CV, link social
+***_Extra Life_*** — form di contatto, CV, link social
 ![Extra Life](screenshots-readme/06-extra-life.png)
 
-Il sito è interamente tradotto in inglese, toggle incluso
+***_Il sito_*** è interamente tradotto in inglese, toggle incluso
 ![Deathmatch in inglese](screenshots-readme/07-deathmatch-en.png)
 
-L'easter egg — un quiz lampo nascosto dietro l'icona del controller nell'header
+***_L'easter egg_*** — un quiz lampo nascosto dietro l'icona del controller nell'header
 ![Quiz easter egg](screenshots-readme/08-quiz-easter-egg.png)
 
-Il bottone email apre una scelta tra Gmail, Outlook e Yahoo, oltre alla copia diretta dell'indirizzo — nessun accesso a caselle di posta richiesto
+***_Il bottone email_*** apre una scelta tra Gmail, Outlook e Yahoo, oltre alla copia diretta dell'indirizzo — nessun accesso a caselle di posta richiesto
+
 ![Modal email](screenshots-readme/09-email-modal.png)
 
-I tre CV (completo, sintetico, formato Europeo) si possono anche visualizzare in anteprima prima di scaricarli
+***_I tre CV_*** (completo, sintetico, formato Europeo) si possono anche visualizzare in anteprima prima di scaricarli
 ![Anteprima CV](screenshots-readme/10-cv-preview.png)
 
 ---
 
 ## Perché questo concept
 
-Sono cresciuto con i videogiochi come passione, prima di trasformarla in un mestiere. Invece del solito portfolio a scroll verticale, ho voluto qualcosa che raccontasse anche *come* penso, non solo *cosa* so fare — da qui l'idea di sei sezioni in stile "modalità di gioco", navigabili come pannelli scorrevoli invece che con lo scroll classico.
+Sono cresciuto con i videogiochi e la tecnologia come passione, prima di trasformarla in un mestiere. Invece del solito portfolio a scroll verticale, ho voluto qualcosa che raccontasse anche *come* penso, non solo *cosa* so fare — da qui l'idea di sei sezioni in stile "modalità di gioco", navigabili come pannelli scorrevoli invece che con lo scroll classico.
 
 ## Le 6 sezioni
 
@@ -204,5 +192,18 @@ Form di contatto testato sul sito live: messaggio inviato dal browser → salvat
 - Possibili nuove domande per il quiz, per tenerlo fresco nel tempo
 
 ---
+<br>
 
-Creato da [Giovanni Biancoli](https://github.com/IlGiocatore93)
+🤝 Vuoi contribuire e migliorare il progetto?💭 Apri una Issue o una Pull Request su Github!💡
+
+<br>
+
+Licenza: MIT - Libero di esplorare, migliorare e condividere.
+
+<br>
+
+🤙 Se ti è piaciuto il progetto, lascia una ✨ su GitHub!🌐
+<br><br>
+
+
+🧑‍💻 Creato da: [Giovanni](https://github.com/IlGiocatore93)
