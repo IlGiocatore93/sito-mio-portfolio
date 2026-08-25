@@ -89,6 +89,8 @@ export const it = {
           tag: "un livello a parte",
           description:
             "Anche questo sito, quello che stai guardando proprio ora, è uno dei miei progetti: pensato e costruito per raccontare chi sono, non solo cosa so fare.",
+          demoUrl: "https://sito-mio-portfolio.vercel.app",
+          repoUrl: "https://github.com/IlGiocatore93/sito-mio-portfolio",
         },
       ],
     },

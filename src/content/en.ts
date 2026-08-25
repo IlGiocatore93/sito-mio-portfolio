@@ -72,6 +72,8 @@ export const en = {
           tag: "a level of its own",
           description:
             "This very site, the one you're looking at right now, is one of my projects too: designed and built to tell you who I am, not just what I can do.",
+          demoUrl: "https://sito-mio-portfolio.vercel.app",
+          repoUrl: "https://github.com/IlGiocatore93/sito-mio-portfolio",
         },
       ],
     },

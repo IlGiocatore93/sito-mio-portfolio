@@ -5,6 +5,9 @@ import filmShot1 from "../assets/screenshots/film-galleria-1.png";
 import filmShot2 from "../assets/screenshots/film-galleria-2.png";
 import tipologieShot1 from "../assets/screenshots/tipologie-1.png";
 import tipologieShot2 from "../assets/screenshots/tipologie-2.png";
+import portfolioShot1 from "../assets/screenshots/portfolio-singleplayer.png";
+import portfolioShot2 from "../assets/screenshots/portfolio-ctf.png";
+import portfolioShot3 from "../assets/screenshots/portfolio-extralife.png";
 import "./Section.css";
 import "./ProjectsSection.css";
 
@@ -20,6 +23,11 @@ const SCREENSHOTS: Record<string, { src: string; alt: string }[]> = {
   "gallery-categories": [
     { src: tipologieShot1, alt: "Rilevamento oggetti con YOLO su un'immagine di auto" },
     { src: tipologieShot2, alt: "Finestra Esplora tipologie con galleria immagini aerei" },
+  ],
+  portfolio: [
+    { src: portfolioShot1, alt: "Sezione Singleplayer del portfolio" },
+    { src: portfolioShot2, alt: "Sezione Capture the Flag del portfolio" },
+    { src: portfolioShot3, alt: "Sezione Extra Life del portfolio" },
   ],
 };
 
