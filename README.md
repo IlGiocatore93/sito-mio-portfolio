@@ -133,14 +133,14 @@ Il deploy in produzione non è mai stato solo "premi un bottone" — qualche ese
 
 🤝 Vuoi contribuire e migliorare il progetto?💭 Apri una Issue o una Pull Request su Github!💡
 
-
+<br>
 
 Licenza: MIT - Libero di esplorare, migliorare e condividere.
 
-
+<br>
 
 🤙 Se ti è piaciuto il progetto, lascia una ✨ su GitHub!🌐
-
+<br>
 
 
 🧑‍💻 Creato da:[Giovanni Biancoli](https://github.com/IlGiocatore93)
