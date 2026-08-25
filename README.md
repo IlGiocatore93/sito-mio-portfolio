@@ -49,6 +49,7 @@ Il mio **sito / portfolio**, pensato per raccontare il mio percorso verso lo svi
 ![Quiz easter egg](screenshots-readme/08-quiz-easter-egg.png)
 
 ***_Il bottone email_*** apre una scelta tra Gmail, Outlook e Yahoo, oltre alla copia diretta dell'indirizzo — nessun accesso a caselle di posta richiesto
+
 ![Modal email](screenshots-readme/09-email-modal.png)
 
 ***_I tre CV_*** (completo, sintetico, formato Europeo) si possono anche visualizzare in anteprima prima di scaricarli
