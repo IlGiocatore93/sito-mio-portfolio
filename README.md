@@ -13,7 +13,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 
-Ciao, benvenuto nel mio progetto Github! 👋 Benvenuto nel mio progetto Github!🚀 Sono Giovanni, studente DevOps, amante dell'informatica e di ogni tecnologia esistente.
+Ciao, benvenuto nel mio progetto Github!👋, Sono Giovanni⚡, studente DevOps, amante dell'informatica e di ogni tecnologia esistente.
 
 Il mio sito portfolio, pensato per raccontare il mio percorso verso lo sviluppo Fullstack con un parallelismo tra modalità di gioco e sezioni della mia vita/carriera. Il tema gaming è il *packaging*: sotto, i contenuti restano concreti e verificabili — percorso, competenze, progetti veri.
 
@@ -36,34 +36,34 @@ Il mio sito portfolio, pensato per raccontare il mio percorso verso lo sviluppo 
 
 ## Screenshot
 
-Singleplayer — il pannello di apertura con foto e stack tecnico
+**_Singleplayer_** — il pannello di apertura con foto e stack tecnico
 <img src="screenshots-readme/01-singleplayer.png" width="800">
 
-Multiplayer — soft skill e lavoro di squadra
+**_Multiplayer_** — soft skill e lavoro di squadra
 <img src="screenshots-readme/02-multiplayer.png" width="800">
 
-Capture the Flag — i progetti, con screenshot delle app vere
+**_Capture the Flag_** — i progetti, con screenshot delle app vere
 <img src="screenshots-readme/03-capture-the-flag.png" width="800">
 
-Deathmatch — i bug affrontati, raccontati per esteso
+**_Deathmatch_** — i bug affrontati, raccontati per esteso
 <img src="screenshots-readme/04-deathmatch.png" width="800">
 
-Survival — cosa sto imparando ora
+**_Survival_** — cosa sto imparando ora
 <img src="screenshots-readme/05-survival.png" width="800">
 
-Extra Life — form di contatto, CV, link social
+**_Extra Life_** — form di contatto, CV, link social
 <img src="screenshots-readme/06-extra-life.png" width="800">
 
-Il sito è interamente tradotto in inglese, toggle incluso
+**_Il sito_** è interamente tradotto in inglese, toggle incluso
 <img src="screenshots-readme/07-deathmatch-en.png" width="800">
 
-L'easter egg — un quiz lampo nascosto dietro l'icona del controller nell'header
+**_L'easter egg_** — un quiz lampo nascosto dietro l'icona del controller nell'header
 <img src="screenshots-readme/08-quiz-easter-egg.png" width="800">
 
-Il bottone email apre una scelta tra Gmail, Outlook e Yahoo, oltre alla copia diretta dell'indirizzo — nessun accesso a caselle di posta richiesto
+**_Il bottone email_** apre una scelta tra Gmail, Outlook e Yahoo, oltre alla copia diretta dell'indirizzo — nessun accesso a caselle di posta richiesto
 <img src="screenshots-readme/09-email-modal.png" width="800">
 
-I tre CV (completo, sintetico, formato Europeo) si possono anche visualizzare in anteprima prima di scaricarli
+**_I tre CV_** (completo, sintetico, formato Europeo) si possono anche visualizzare in anteprima prima di scaricarli
 <img src="screenshots-readme/10-cv-preview.png" width="800">
 
 ---
