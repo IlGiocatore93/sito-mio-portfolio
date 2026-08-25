@@ -54,7 +54,7 @@ Il mio **sito / portfolio**, pensato per raccontare il mio percorso verso lo svi
 **_Extra Life_** — form di contatto, CV, link social
 <img src="screenshots-readme/06-extra-life.png" width="800">
 
-**_Il sito_** è interamente tradotto in inglese, toggle incluso
+**_Il sito_** è interamente tradotto in inglese, **toggle** incluso
 <img src="screenshots-readme/07-deathmatch-en.png" width="800">
 
 **_L'easter egg_** — un quiz lampo nascosto dietro l'icona del controller nell'header
