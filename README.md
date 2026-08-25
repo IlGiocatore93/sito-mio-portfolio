@@ -143,4 +143,4 @@ Licenza: MIT - Libero di esplorare, migliorare e condividere.
 <br><br>
 
 
-🧑‍💻 Creato da:[Giovanni Biancoli](https://github.com/IlGiocatore93)
+🧑‍💻 Creato da: [Giovanni](https://github.com/IlGiocatore93)
