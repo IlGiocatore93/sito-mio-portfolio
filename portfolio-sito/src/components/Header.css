@@ -1,0 +1,127 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 18px 28px;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg);
+}
+
+.header__identity {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+}
+
+.header__photo {
+  width: 34px;
+  height: 34px;
+  object-fit: contain;
+}
+
+.header__brand {
+  font-family: var(--font-display);
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  color: var(--text-primary);
+  flex-shrink: 0;
+}
+
+.header__nav {
+  display: flex;
+  gap: 4px;
+  overflow-x: auto;
+  scrollbar-width: none;
+  flex: 1;
+  justify-content: center;
+}
+
+.header__nav::-webkit-scrollbar {
+  display: none;
+}
+
+.header__navItem {
+  font-family: var(--font-display);
+  font-size: 12px;
+  padding: 8px 12px;
+  border-radius: var(--radius);
+  color: var(--text-secondary);
+  white-space: nowrap;
+  transition: color 0.2s var(--ease-out), background 0.2s var(--ease-out);
+}
+
+.header__navItem:hover {
+  color: var(--text-primary);
+  background: var(--bg-elevated);
+}
+
+.header__navItem.is-active {
+  color: var(--accent-bright);
+  background: var(--bg-elevated);
+}
+
+.header__questBtn {
+  font-size: 17px;
+  width: 34px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius);
+  border: 1px solid var(--border-strong);
+  flex-shrink: 0;
+  transition: border-color 0.2s var(--ease-out), transform 0.2s var(--ease-out);
+}
+
+.header__questBtn:hover {
+  border-color: var(--accent);
+  transform: scale(1.06);
+}
+
+.header__questBtn.is-unlocked {
+  border-color: var(--accent-bright);
+  background: rgba(217, 98, 47, 0.12);
+}
+
+.header__langToggle {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-display);
+  font-size: 12px;
+  padding: 8px 10px;
+  border-radius: var(--radius);
+  border: 1px solid var(--border-strong);
+  color: var(--text-secondary);
+  flex-shrink: 0;
+  transition: border-color 0.2s var(--ease-out);
+}
+
+.header__langToggle:hover {
+  border-color: var(--accent-2);
+}
+
+.header__langToggle span.is-active {
+  color: var(--accent-2-bright);
+  font-weight: 700;
+}
+
+.header__langDivider {
+  color: var(--border-strong);
+}
+
+@media (max-width: 720px) {
+  .header {
+    padding: 14px 16px;
+    flex-wrap: wrap;
+  }
+  .header__nav {
+    order: 3;
+    flex: 0 0 100%;
+    width: 100%;
+    justify-content: flex-start;
+    margin-top: 4px;
+  }
+}
