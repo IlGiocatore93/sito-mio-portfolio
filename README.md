@@ -185,7 +185,7 @@ git commit -m "rimuovo node_modules dal repo"
 git push
 ```
 
-<img src="deploy-screenshots/03-vercel-deploy-ready.png" height="500" width="1000">
+<img src="deploy-screenshots/03-vercel-deploy-ready.png" height="700" width="1000">
 
 ### 5. Collegare backend e frontend (CORS)
 
