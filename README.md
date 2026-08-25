@@ -159,7 +159,7 @@ git push -u origin main
 
 Render permette un solo database gratuito per account — essendo già occupato da un altro progetto, ho usato [Neon](https://neon.tech) come alternativa gratuita e separata.
 
-<img src="deploy-screenshots/01-neon-dashboard.png" width="1000">
+<img src="deploy-screenshots/01-neon-dashboard.png" height="500" width="1000">
 
 ### 3. Backend su Render
 
