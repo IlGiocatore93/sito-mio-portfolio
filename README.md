@@ -13,7 +13,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 
-**_"Il mio percorso, livello dopo livello."_**
+**_"Non solo un CV: la mia storia, un livello alla volta."_**
 
 Ciao, benvenuto nel mio progetto Github!👋, Sono **Giovanni**⚡, studente DevOps, amante dell'informatica e di ogni tecnologia esistente.
 
