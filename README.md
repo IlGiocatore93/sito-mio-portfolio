@@ -13,6 +13,8 @@
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 
+**_"Il mio percorso, livello dopo livello."_**
+
 Ciao, benvenuto nel mio progetto Github!👋, Sono **Giovanni**⚡, studente DevOps, amante dell'informatica e di ogni tecnologia esistente.
 
 Il mio **sito / portfolio**, pensato per raccontare il mio percorso verso lo sviluppo Fullstack con un parallelismo tra modalità di gioco e sezioni della mia vita/carriera. Il tema gaming è il *packaging*: sotto, i contenuti restano concreti e verificabili — percorso, competenze, progetti veri.
