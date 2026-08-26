@@ -112,7 +112,7 @@ Un piccolo quiz lampo (5 domande a tema dev/gaming, 12 secondi a testa) nascosto
 ---
 
 ## Privacy
-I tre CV scaricabili (`public/cv/`) sono esclusi dall'indicizzazione dei motori di ricerca tramite un file [`robots.txt`](public/robots.txt) dedicato — così non compaiono nei risultati di Google cercando il mio nome, restando comunque scaricabili da chiunque visiti il sito e clicchi consapevolmente il bottone.
+I tre CV scaricabili (`public/cv/`) sono esclusi dall'indicizzazione dei motori di ricerca tramite un file [`robots.txt`](public/cv/robots.txt) dedicato — così non compaiono nei risultati di Google cercando il mio nome, restando comunque scaricabili da chiunque visiti il sito e clicchi consapevolmente il bottone.
 
 ## Setup in locale
 
